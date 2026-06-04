@@ -19,50 +19,55 @@
 
 ---
 
-## 🛠️ Tecnologías y Herramientas (Borra las que no uses)
+## 🛠️ Tecnologías y Herramientas
 
 <div align="center">
   <h3>Lenguajes</h3>
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts,php,c,cpp,cs,rust,go,kotlin,ruby,dart,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,js,php,cpp,html,css&theme=dark" />
   
   <h3>Frontend & Diseño</h3>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,vue,astro,tailwind,bootstrap,sass,figma,ps,ai&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=bootstrap,figma,ps,ai&theme=dark" />
 
   <h3>Backend & Database</h3>
-  <img src="https://skillicons.dev/icons?i=spring,hibernate,nodejs,express,django,flask,fastapi,postgres,mysql,mongodb,redis,sqlite,supabase,firebase&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,supabase,firebase&theme=dark" />
 
   <h3>AI & Data Science</h3>
-  <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,opencv,bots,anaconda&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=py&theme=dark" />
 
   <h3>DevOps, Herramientas & OS</h3>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,git,github,githubactions,linux,ubuntu,windows,apple,idea,vscode,postman,terminal&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=docker,github,linux,windows,vscode,arduino,terminal&theme=dark" />
 </div>
 
 ---
 
 ## 📊 GitHub Analytics
+---
+
+## 📊 GitHub Analytics
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JAAR167&show_icons=true&theme=radical&hide_border=false" />
+  <!-- Versión alternativa de Stats -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JAAR167&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  
+  <!-- Versión alternativa de Lenguajes -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAAR167&layout=compact&theme=radical&hide_border=false" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JAAR167&theme=radical&hide_border=false" />
+  <!-- Nueva opción de estadísticas de actividad -->
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=JAAR167&theme=react-dark" />
 </p>
+
+---
 
 ---
 
 ## 🌐 Redes Sociales y Contacto
 <p align="center">
-  <a href="https://linkedin.com/in/TU_USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:tu-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://twitter.com/TU_USUARIO"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://instagram.com/TU_USUARIO"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://discordapp.com/users/TU_ID"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <a href="https://medium.com/@TU_USUARIO"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
-  <a href="https://wa.me/TU_NUMERO"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-  <a href="https://twitch.tv/TU_USUARIO"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" /></a>
-  <a href="https://youtube.com/@TU_USUARIO"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/juan-asensio-72043139b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:juanasencio617@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.instagram.com/j.andres_16207/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://wa.me/70533543"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@juanasencio2561"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 </p>
 
 ---
