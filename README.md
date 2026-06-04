@@ -1,20 +1,20 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&reversal=true&text=Abdalrahman%20Alhamod&fontAlignY=35&fontSize=32" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&reversal=true&text=Juan%20Andrés%20Asensio&fontAlignY=35&fontSize=32" />
 </div>
 
 <h2 align="center">
-  🚀 Full Stack & AI Engineer
+  🚀 Programador Junior | Software Developer
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;AI%20Engineer;Full%20Stack%20Developer;Always%20learning%20new%20things;Feel%20free%20to%20look%20around%20👀&font=Fira%20Code&center=true&width=450&height=45" />
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Developer;AI%20Enthusiast;Process%20Automation;Always%20learning%20new%20things;Feel%20free%20to%20look%20around%20👀&font=Fira%20Code&center=true&width=450&height=45" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Abdalrahman-Alhamod.Abdalrahman-Alhamod&left_color=gray&right_color=blue" alt="Visitors" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=JAAR167.JAAR167&left_color=gray&right_color=blue" alt="Visitors" />
 </p>
 
 ---
@@ -42,13 +42,12 @@
 
 ## 📊 GitHub Analytics
 <p align="center">
-  <!-- Si las stats fallan, verifica que tu nombre de usuario en GitHub sea exactamente Abdalrahman-Alhamod -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abdalrahman-Alhamod&show_icons=true&theme=radical&hide_border=false" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdalrahman-Alhamod&layout=compact&theme=radical&hide_border=false" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JAAR167&show_icons=true&theme=radical&hide_border=false" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAAR167&layout=compact&theme=radical&hide_border=false" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdalrahman-Alhamod&theme=radical&hide_border=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JAAR167&theme=radical&hide_border=false" />
 </p>
 
 ---
@@ -69,6 +68,6 @@
 ---
 
 <div align="center">
-  <!-- Banner final invertido (sin reversal=true para que la curva sea opuesta al de arriba) -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient" />
+  <!-- Banner final invertido respecto al superior -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&flip=true" />
 </div>
