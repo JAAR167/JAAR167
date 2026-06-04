@@ -45,16 +45,7 @@
 
 ## 📊 GitHub Analytics
 <p align="center">
-  <!-- Versión alternativa de Stats -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JAAR167&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  
-  <!-- Versión alternativa de Lenguajes -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAAR167&layout=compact&theme=radical&hide_border=false" />
-</p>
-
-<p align="center">
-  <!-- Nueva opción de estadísticas de actividad -->
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=JAAR167&theme=react-dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JAAR167&theme=radical&hide_border=false" />
 </p>
 
 ---
