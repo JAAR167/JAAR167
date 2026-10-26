@@ -23,10 +23,10 @@
 
 <div align="center">
   <h3>Lenguajes</h3>
-  <img src="https://skillicons.dev/icons?i=python,js,php,cpp,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,js,php,cpp,html,css,flutter,kotlin,md&theme=dark" />
   
   <h3>Frontend & Diseño</h3>
-  <img src="https://skillicons.dev/icons?i=bootstrap,figma,ps,ai&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=bootstrap,figma,blender,ai&theme=dark" />
 
   <h3>Backend & Database</h3>
   <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,supabase,firebase&theme=dark" />
@@ -35,7 +35,7 @@
   <img src="https://skillicons.dev/icons?i=py&theme=dark" />
 
   <h3>DevOps, Herramientas & OS</h3>
-  <img src="https://skillicons.dev/icons?i=docker,github,linux,windows,vscode,arduino,terminal&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,windows,vscode,arduino,terminal&theme=dark" />
 </div>
 
 ---
